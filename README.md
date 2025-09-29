@@ -4,7 +4,7 @@ Sou Bryan bezerra,e atualmente sou estudante do curso técnico de Desnvolvimento
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/Bryanl%20bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Bryan-Bezerra/)](https://www.linkedin.com/in/Bryan-Bezerra-a28516367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin Badge](https://img.shields.io/badge/Bryan%20bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Bryan-Bezerra/)](https://www.linkedin.com/in/Bryan-Bezerra-a28516367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram Badge](https://img.shields.io/badge/-@eaebzyn-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zSamuuXy/)](https://www.instagram.com/zSamuuXy/)
 
 ---
