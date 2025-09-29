@@ -1,4 +1,4 @@
-## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+se## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 Sou Bryan bezerra,e atualmente sou estudante do curso técnico de Desnvolvimento de sistemas 
 
@@ -23,7 +23,7 @@ Sou Bryan bezerra,e atualmente sou estudante do curso técnico de Desnvolvimento
 <div align="center">
   <a href="https://github.com/eubzyn66">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eubzyn666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSamuuXy&layout=compact&langs_count=0&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunzyn666&layout=compact&langs_count=0&theme=tokyonight"/>
 </div>
 
 ---
