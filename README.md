@@ -1,4 +1,6 @@
 ## Hi there 👋
+sou bryan, estou cursando desenvolvimento de sistemas
+
 
 <!--
 **eubzyn666/eubzyn666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
